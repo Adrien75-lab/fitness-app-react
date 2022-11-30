@@ -31,7 +31,7 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => {
       />
       <Typography
         fontSize="24px"
-        fontWeigh="bold"
+        fontWeight="bold"
         color="#3A1212"
         textTransform="capitalize"
       >
