@@ -1,10 +1,18 @@
 import { Box } from "@mui/material";
 import React, { useState } from "react";
 import Exercises from "../Exercises";
+import HeaderComponent from "../HeaderComponent";
 import HeroBanner from "../HeroBanner";
 import SearchExercises from "../SearchExercises";
 
+
+
+
+
 const Home = () => {
+ 
+  
+
   const [bodyPart, setBodyPart] = useState("all");
   const [exercises, setExercises] = useState([]);
   return (

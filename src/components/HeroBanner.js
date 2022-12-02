@@ -40,7 +40,7 @@ const HeroBanner = () => (
           borderRadius: "4px",
         }}
       >
-        Explore Exercises
+        Voir les exercises
       </a>
     </Stack>
     <Typography
